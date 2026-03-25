@@ -17,9 +17,9 @@
       "sku": {
         "type": "string",
         "allowedValues": [
-          "F1"
+          "D1"
         ],
-        "defaultValue": "F1",
+        "defaultValue": "D1",
         "metadata": {
           "description": "The pricing tier for the hosting plan."
         }
